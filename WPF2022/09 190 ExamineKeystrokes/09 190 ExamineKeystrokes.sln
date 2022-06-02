@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 190 ExamineKeystrokes", "09 190 ExamineKeystrokes\09 190 ExamineKeystrokes.csproj", "{D5638000-4A19-4D9E-89D8-028DD0DA10C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5638000-4A19-4D9E-89D8-028DD0DA10C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5638000-4A19-4D9E-89D8-028DD0DA10C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5638000-4A19-4D9E-89D8-028DD0DA10C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5638000-4A19-4D9E-89D8-028DD0DA10C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5EED9E-7571-493F-8F70-4E2435FF482A}
+	EndGlobalSection
+EndGlobal
