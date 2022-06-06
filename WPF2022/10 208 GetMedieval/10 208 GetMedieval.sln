@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 208 GetMedieval", "10 208 GetMedieval\10 208 GetMedieval.csproj", "{837E15B6-27B1-40DA-89FE-03433AECA2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837E15B6-27B1-40DA-89FE-03433AECA2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837E15B6-27B1-40DA-89FE-03433AECA2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837E15B6-27B1-40DA-89FE-03433AECA2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837E15B6-27B1-40DA-89FE-03433AECA2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928EBCFE-DFD6-404E-9504-0B18670A9E2F}
+	EndGlobalSection
+EndGlobal
