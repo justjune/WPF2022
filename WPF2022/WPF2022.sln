@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32516.85
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 014 SayHello", "00 014 SayHello\00 014 SayHello.csproj", "{793284FA-333A-4836-8096-314E5F91385F}"
 EndProject
@@ -110,6 +110,30 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 563 MyResources", "21 563 MyResources\21 563 MyResources\21 563 MyResources.csproj", "{2AF4B683-3DD8-4402-B1A8-257AAC9DC2A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 806 FourOverlappingCircles", "28 806 FourOverlappingCircles\28 806 FourOverlappingCircles\28 806 FourOverlappingCircles.csproj", "{7D148262-BD76-47EE-A8C7-F39FC47975DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 024 InheritAppAndWindow", "01 024 InheritAppAndWindow\Project1\01 024 InheritAppAndWindow.csproj", "{40A8517C-BDFC-4947-9F32-9A1C3812242E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 136 ScrollCustomColors", "06 136 ScrollCustomColors\Project6.136\06 136 ScrollCustomColors.csproj", "{BD079572-B4E1-407C-9FC2-44B3CF7A1ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 292 SelectColorFromGrid", "13 292 SelectColorFromGrid\Project13.292\13 292 SelectColorFromGrid.csproj", "{259EFFBD-1952-4C63-B7A3-A731059A0A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 050 ClickTheGradientCenter", "02 050 ClickTheGradientCenter\Danila 2 50\02 050 ClickTheGradientCenter.csproj", "{FB54AC67-EC67-491F-BD77-28F6820C9C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 097 StackTenButtons", "05 097 StackTenButtons\Danila 5 97\05 097 StackTenButtons.csproj", "{7AACD07D-AAD5-4F63-ACD5-8629ECB9F70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 200 RenderTheBetterEllipse", "10 200 RenderTheBetterEllipse\Dabnila 10-200 ver 2\10 200 RenderTheBetterEllipse.csproj", "{564FA555-88C1-43C0-8C63-A01439F21A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 271 ListColorValues", "13 271 ListColorValues\Danila 13-271 ListColorValues\13 271 ListColorValues.csproj", "{A93F82EA-A266-4C9C-8D7D-E26181AD86F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 314 ControlXCV", "14 314 ControlXCV\Project14.314\14 314 ControlXCV.csproj", "{759FBF70-BDC2-4FC1-8A37-DD18866DA620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 037 VaryTheBackground", "02 037 VaryTheBackground\Project2\02 037 VaryTheBackground.csproj", "{230928D2-4E9E-4F5F-992A-FC368C0F8C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 077 FormatTheButton", "04 077 FormatTheButton\Project2\04 077 FormatTheButton.csproj", "{7DF4808C-EFB7-489A-BF0A-F1156C6C2ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 652 ClockTicker2", "23 652 ClockTicker2\23 652 ClockTicker2.csproj", "{624A0D66-374E-4F97-AC7B-F281864966ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 186 ShadowTheStylus", "09 186 ShadowTheStylus\09 186 ShadowTheStylus.csproj", "{87DA3152-52D5-418A-8BC8-08E2BB3E97B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +357,54 @@ Global
 		{7D148262-BD76-47EE-A8C7-F39FC47975DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D148262-BD76-47EE-A8C7-F39FC47975DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D148262-BD76-47EE-A8C7-F39FC47975DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A8517C-BDFC-4947-9F32-9A1C3812242E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A8517C-BDFC-4947-9F32-9A1C3812242E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A8517C-BDFC-4947-9F32-9A1C3812242E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A8517C-BDFC-4947-9F32-9A1C3812242E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD079572-B4E1-407C-9FC2-44B3CF7A1ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD079572-B4E1-407C-9FC2-44B3CF7A1ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD079572-B4E1-407C-9FC2-44B3CF7A1ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD079572-B4E1-407C-9FC2-44B3CF7A1ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259EFFBD-1952-4C63-B7A3-A731059A0A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259EFFBD-1952-4C63-B7A3-A731059A0A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259EFFBD-1952-4C63-B7A3-A731059A0A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259EFFBD-1952-4C63-B7A3-A731059A0A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB54AC67-EC67-491F-BD77-28F6820C9C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB54AC67-EC67-491F-BD77-28F6820C9C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB54AC67-EC67-491F-BD77-28F6820C9C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB54AC67-EC67-491F-BD77-28F6820C9C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AACD07D-AAD5-4F63-ACD5-8629ECB9F70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AACD07D-AAD5-4F63-ACD5-8629ECB9F70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AACD07D-AAD5-4F63-ACD5-8629ECB9F70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AACD07D-AAD5-4F63-ACD5-8629ECB9F70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564FA555-88C1-43C0-8C63-A01439F21A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564FA555-88C1-43C0-8C63-A01439F21A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564FA555-88C1-43C0-8C63-A01439F21A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564FA555-88C1-43C0-8C63-A01439F21A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93F82EA-A266-4C9C-8D7D-E26181AD86F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93F82EA-A266-4C9C-8D7D-E26181AD86F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93F82EA-A266-4C9C-8D7D-E26181AD86F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93F82EA-A266-4C9C-8D7D-E26181AD86F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759FBF70-BDC2-4FC1-8A37-DD18866DA620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759FBF70-BDC2-4FC1-8A37-DD18866DA620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759FBF70-BDC2-4FC1-8A37-DD18866DA620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759FBF70-BDC2-4FC1-8A37-DD18866DA620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230928D2-4E9E-4F5F-992A-FC368C0F8C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230928D2-4E9E-4F5F-992A-FC368C0F8C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230928D2-4E9E-4F5F-992A-FC368C0F8C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230928D2-4E9E-4F5F-992A-FC368C0F8C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF4808C-EFB7-489A-BF0A-F1156C6C2ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF4808C-EFB7-489A-BF0A-F1156C6C2ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF4808C-EFB7-489A-BF0A-F1156C6C2ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF4808C-EFB7-489A-BF0A-F1156C6C2ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624A0D66-374E-4F97-AC7B-F281864966ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624A0D66-374E-4F97-AC7B-F281864966ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624A0D66-374E-4F97-AC7B-F281864966ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624A0D66-374E-4F97-AC7B-F281864966ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DA3152-52D5-418A-8BC8-08E2BB3E97B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DA3152-52D5-418A-8BC8-08E2BB3E97B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DA3152-52D5-418A-8BC8-08E2BB3E97B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DA3152-52D5-418A-8BC8-08E2BB3E97B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,32 @@
+﻿<!--В секции Resources определяются два класса преобразования —
+первый преобразует значения double от полос прокрутки в байтовые данные для
+Label, а второй конструирует объект SolidColorBrush по трем составляющи.макет содержит две панели Grid. Первая состоит
+из трех столбцов. В левом столбце расположена другая панель Grid с полосами
+прокрутки и надписями, в правом —
+элемент Border для отображения 
+полученного цвета, а между ними —
+элемент GridSplitter.-->
+  <StackPanel xmlns="http://schemas.mi crosoft.com/wi nfх/2006/xaml/presentation">
+    <Button Name="MyButton"
+    Hori="" zonta1Ali="" gnment="Center"
+    Margin="24">
+      Hello. XAML!
+    </Button>
+    483
+    <E11 ipse="" Width="200"
+    Height="100"
+    Margin="24"
+    Stroke="Red"
+    StrokeThickness="10" />
+    <ListBox Width="100"
+             Height="100"
+             Margin="24">
+      <ListBoxItem>Sunday</ListBoxItem>
+      <ListBoxItem>Monday</ListBoxItem>
+      <ListBoxItem>Tuesday</ListBoxItem>
+      <ListBoxItem>Wednesday</ListBoxItem>
+      <ListBoxItem>Thursday</ListBoxItem>
+      <ListBoxItem>Fri day</ListBoxItem>
+      <ListBoxItem>Saturday</ListBoxItem>
+    </ListBox>
+  </StackPanel>
