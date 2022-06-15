@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32516.85
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 014 SayHello", "00 014 SayHello\00 014 SayHello.csproj", "{793284FA-333A-4836-8096-314E5F91385F}"
 EndProject
@@ -118,6 +118,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 661 StyleWithMultipleButtons", "24 661 StyleWithMultipleButtons\24 661 StyleWithMultipleButtons.csproj", "{F37BEC5E-0AC4-4997-A354-406EDD3B3BD7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 661-2 StyleWithMultipleElements", "24 661-2StyleWithMultipleElements\24 661-2 StyleWithMultipleElements.csproj", "{765D3F27-45CC-42FC-BE2F-BE65F2084852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 537 DumpContentPropertyAttributes", "20 537 DumpContentPropertyAttributes\20 537 DumpContentPropertyAttributes.csproj", "{453EFD37-9547-4288-97BA-7B447BDC054B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31 911 CreateIndexedBitmap", "31 911 CreateIndexedBitmap\31 911 CreateIndexedBitmap.csproj", "{69ECEA23-E698-4A5F-851C-1692705F4151}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +361,14 @@ Global
 		{765D3F27-45CC-42FC-BE2F-BE65F2084852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{765D3F27-45CC-42FC-BE2F-BE65F2084852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{765D3F27-45CC-42FC-BE2F-BE65F2084852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453EFD37-9547-4288-97BA-7B447BDC054B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453EFD37-9547-4288-97BA-7B447BDC054B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453EFD37-9547-4288-97BA-7B447BDC054B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453EFD37-9547-4288-97BA-7B447BDC054B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69ECEA23-E698-4A5F-851C-1692705F4151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ECEA23-E698-4A5F-851C-1692705F4151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ECEA23-E698-4A5F-851C-1692705F4151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ECEA23-E698-4A5F-851C-1692705F4151}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
