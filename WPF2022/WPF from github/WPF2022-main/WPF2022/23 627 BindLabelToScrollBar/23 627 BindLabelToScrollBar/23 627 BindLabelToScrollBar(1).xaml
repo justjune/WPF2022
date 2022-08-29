@@ -1,0 +1,17 @@
+﻿<!-- === ====================================================       
+BindLabelToScrollBar.xaml (c) 2006 by  Charles Petzold      
+============================================= ========== -->
+<StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"             
+			xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<!--Источник привязки-->
+    <!--Создаем элемент ScrollBar и задаем его разметку-->
+	<ScrollBar Name="scroll"                
+			   Orientation="Horizontal" Margin="24"                
+			   Maximum="100" LargeChange="10"  SmallChange="1" />
+	<!--Приемник привязки-->
+    <!--Label содержит ScrollBar-->
+    <!--Свойство Content элемента Label привязывается к свойству Value элемента ScrollBar-->
+	<Label HorizontalAlignment="Center"     
+		   Content="{Binding ElementName=scroll,  Path=Value}" />
+</StackPanel>
+

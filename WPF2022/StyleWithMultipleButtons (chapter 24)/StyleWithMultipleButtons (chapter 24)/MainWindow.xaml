@@ -1,0 +1,19 @@
+﻿<StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--стили которые могут использоваться во всем приложении -->
+    <StackPanel.Resources>
+        <!--стилю задается ключ normal, по которому потом его можно будет найти -->
+        <Style x:Key="normal">
+            <!--задаются свойства посредствам setter'a -->
+            <Setter Property="Control.FontSize"  Value="24" />
+            <Setter Property="Control.Foreground"  Value="Blue" />
+            <Setter Property="Control.HorizontalAlignment" Value="Center" />
+            <Setter Property="Control.Margin"  Value="24" />
+            <Setter Property="Control.Padding"  Value="20, 10, 20, 10" />
+        </Style>
+    </StackPanel.Resources>
+    <!--свойства кнопки задаются расширением разметки staticresource по ключу normal уже определенного стиля -->
+    <Button Style="{StaticResource normal}">Button Number 1</Button>
+    <Button Style="{StaticResource normal}">Button Number 2</Button>
+    <Button Style="{StaticResource normal}">Button Number 3</Button>
+</StackPanel> 

@@ -1,0 +1,9 @@
+﻿<Application x:Class="StyleWithMultipleButtons__chapter_24_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StyleWithMultipleButtons__chapter_24_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
