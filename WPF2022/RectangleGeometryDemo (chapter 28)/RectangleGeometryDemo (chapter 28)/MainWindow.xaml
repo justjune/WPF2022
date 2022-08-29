@@ -1,0 +1,16 @@
+﻿<Window x:Class="RectangleGeometryDemo__chapter_28_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RectangleGeometryDemo__chapter_28_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Path Fill="Blue" Stroke="Red"  StrokeThickness="3">
+            <Path.Data>
+                <RectangleGeometry Rect="96 48 288 192"                                 RadiusX="24"  RadiusY="24" />
+            </Path.Data>
+        </Path>
+    </Grid>
+</Window>
