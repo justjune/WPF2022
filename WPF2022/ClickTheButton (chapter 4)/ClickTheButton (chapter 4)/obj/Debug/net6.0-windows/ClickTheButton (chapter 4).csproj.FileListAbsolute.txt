@@ -1,0 +1,21 @@
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\bin\Debug\net6.0-windows\ClickTheButton (chapter 4).exe
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\bin\Debug\net6.0-windows\ClickTheButton (chapter 4).deps.json
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\bin\Debug\net6.0-windows\ClickTheButton (chapter 4).runtimeconfig.json
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\bin\Debug\net6.0-windows\ClickTheButton (chapter 4).dll
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\bin\Debug\net6.0-windows\ClickTheButton (chapter 4).pdb
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).csproj.AssemblyReference.cache
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\App.g.cs
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4)_MarkupCompile.cache
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4)_MarkupCompile.lref
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\MainWindow.baml
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).g.resources
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).GeneratedMSBuildEditorConfig.editorconfig
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).AssemblyInfoInputs.cache
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).AssemblyInfo.cs
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).csproj.CoreCompileInputs.cache
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).dll
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\refint\ClickTheButton (chapter 4).dll
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).pdb
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ClickTheButton (chapter 4).genruntimeconfig.cache
+E:\WPF 4 sem\ClickTheButton (chapter 4)\ClickTheButton (chapter 4)\obj\Debug\net6.0-windows\ref\ClickTheButton (chapter 4).dll
