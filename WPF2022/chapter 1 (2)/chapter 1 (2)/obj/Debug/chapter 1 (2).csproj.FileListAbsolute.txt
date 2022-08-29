@@ -1,0 +1,16 @@
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).csproj.AssemblyReference.cache
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).csproj.SuggestedBindingRedirects.cache
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\MainWindow.g.cs
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\App.g.cs
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2)_MarkupCompile.cache
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2)_MarkupCompile.lref
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\bin\Debug\chapter 1 (2).exe.config
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\bin\Debug\chapter 1 (2).exe
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\bin\Debug\chapter 1 (2).pdb
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\MainWindow.baml
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).g.resources
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter_1__2_.Properties.Resources.resources
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).csproj.GenerateResource.cache
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).csproj.CoreCompileInputs.cache
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).exe
+E:\WPF 4 sem\chapter 1 (2)\chapter 1 (2)\obj\Debug\chapter 1 (2).pdb

@@ -1,0 +1,21 @@
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.csproj.AssemblyReference.cache
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\App.g.cs
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter_MarkupCompile.cache
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter_MarkupCompile.lref
+E:\WPF 4 sem\1 chapter\1 chapter\bin\Debug\net6.0-windows\1 chapter.exe
+E:\WPF 4 sem\1 chapter\1 chapter\bin\Debug\net6.0-windows\1 chapter.deps.json
+E:\WPF 4 sem\1 chapter\1 chapter\bin\Debug\net6.0-windows\1 chapter.runtimeconfig.json
+E:\WPF 4 sem\1 chapter\1 chapter\bin\Debug\net6.0-windows\1 chapter.dll
+E:\WPF 4 sem\1 chapter\1 chapter\bin\Debug\net6.0-windows\1 chapter.pdb
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\MainWindow.baml
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.g.resources
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.AssemblyInfoInputs.cache
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.AssemblyInfo.cs
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.csproj.CoreCompileInputs.cache
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.dll
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\refint\1 chapter.dll
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.pdb
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\1 chapter.genruntimeconfig.cache
+E:\WPF 4 sem\1 chapter\1 chapter\obj\Debug\net6.0-windows\ref\1 chapter.dll
