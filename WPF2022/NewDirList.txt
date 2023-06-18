@@ -1,0 +1,72 @@
+ Том в устройстве C имеет метку Windows
+ Серийный номер тома: DE85-F00E
+
+ Содержимое папки C:\Users\osipov\Desktop\Directories\WPF\WPF2022\WPF2022
+
+2023-06-18  18:51    <DIR>          .
+2022-06-15  18:56    <DIR>          ..
+2022-03-20  14:47    <DIR>          00 014 SayHello
+2022-04-20  01:02    <DIR>          01 020 InheritTheApp
+2022-04-05  16:41    <DIR>          01 022 ThrowWinPatry
+2022-05-17  23:02    <DIR>          01 029 GrowAndShrink
+2022-03-29  19:35    <DIR>          01 031 TypeYourTitle
+2023-06-18  17:44    <DIR>          02 039 FlipThroughTheBrushes
+2023-06-18  17:44    <DIR>          02 042 GradiateTheBrush
+2022-04-05  17:03    <DIR>          02 046 AdjustTheGradient
+2022-05-28  17:09    <DIR>          02 047 FollowTheRainbow
+2022-04-05  16:41    <DIR>          02 052 RotateTheGradientOrigin
+2023-06-18  17:46    <DIR>          03 054 DisplaySomeText
+2022-06-09  19:10    <DIR>          03 058 RecordKeystrokes
+2022-04-20  01:23    <DIR>          03 061 ShowMyFace
+2023-06-18  17:46    <DIR>          03 066 FormatTheText
+2022-05-17  23:02    <DIR>          03 068 ToggleBoldAndItalic
+2022-04-05  16:41    <DIR>          03 071 RenderTheGraphic
+2023-06-18  17:47    <DIR>          04 073 ClickTheButton
+2022-05-28  15:43    <DIR>          04 078 ImageTheButton
+2023-06-18  17:42    <DIR>          04 079 ImageTheButton.cs
+2022-04-05  16:41    <DIR>          04 085 BindTheButton
+2022-05-17  23:02    <DIR>          04 092 EditSomeText
+2022-04-19  21:52    <DIR>          05 103 ScrollFiftyButtons.cs
+2022-04-20  01:23    <DIR>          05 106 DesignAButton
+2023-06-18  17:47    <DIR>          05 110 ExploreDirectories
+2022-05-17  23:02    <DIR>          06 115 DockAroundTheBlock
+2023-06-18  17:47    <DIR>          06 117 MeetTheDockers
+2022-04-20  01:23    <DIR>          06 127 SpanTheCells
+2023-06-18  17:48    <DIR>          06 130 SplitNine
+2023-06-18  17:48    <DIR>          06 133 SplitTheClient
+2023-06-18  17:48    <DIR>          07 141 PaintTheButton.cs
+2023-06-18  17:49    <DIR>          08 150 SetFontSizeProperty
+2022-05-28  15:43    <DIR>          08 161 SetSpaceProperty
+2023-06-18  17:49    <DIR>          09 169 ExamineRoutedEvents
+2023-06-18  17:50    <DIR>          09 180 DrawCircles
+2023-06-18  17:50    <DIR>          11 228 BuildButtonFactory
+2022-05-17  23:02    <DIR>          11 241 SelectColor
+2023-06-18  17:50    <DIR>          12 246 DuplicateUniformGrid
+2022-05-17  23:02    <DIR>          13 268 ListColorNames
+2023-06-18  17:51    <DIR>          13 279 ListColorShapes
+2023-06-18  17:51    <DIR>          13 280 ListColoredLabels
+2023-06-18  17:51    <DIR>          13 282 ListWithListBoxItems
+2023-06-18  17:52    <DIR>          14 299 PeruseTheMenu
+2023-06-18  17:40    <DIR>          14 317 CommandTheMenu
+2022-05-28  15:43    <DIR>          19 482 LoadXamlResource
+2023-06-18  17:52    <DIR>          19 485 LoadXamlFile
+2022-05-28  15:43    <DIR>          19 491 CompileXamlWindow
+2022-06-16  00:32    <DIR>          20 537 DumpContentPropertyAttributes
+2023-06-18  17:52    <DIR>          21 563 MyResources
+2023-06-18  17:53    <DIR>          23 627 BindLabelToScrollBar
+2022-06-03  20:21    <DIR>          24 660 ButtonWithLocalStyle
+2022-06-03  20:21    <DIR>          24 661 StyleWithMultipleButtons
+2022-06-03  20:21    <DIR>          24 661-2StyleWithMultipleElements
+2022-06-03  20:21    <DIR>          24 662-3 StylesWithSameKeys
+2023-06-18  17:53    <DIR>          28 806 FourOverlappingCircles
+2023-06-18  17:54    <DIR>          28 828 Text Geometry
+2022-05-28  15:43    <DIR>          30 867 EnlargeButtonWithTimer
+2022-05-28  15:43    <DIR>          30 869 EnlargeButtonWithAnimation
+2022-05-28  15:43    <DIR>          30 895 RenderTheAnimation
+2022-06-16  00:32    <DIR>          31 911 CreateIndexedBitmap
+2023-06-18  18:21             6 038 DirList.txt
+2023-06-18  18:51                 0 NewDirList.txt
+2023-06-18  18:47             4 887 PrjList.txt
+2023-06-18  18:46            32 326 WPF2022.sln
+               4 файлов         43 251 байт
+              61 папок  163 301 384 192 байт свободно

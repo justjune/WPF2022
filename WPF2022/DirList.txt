@@ -1,0 +1,85 @@
+total 136 / 59 projects
+drwxr-xr-x 1 osipov 197609     0 Mar 20 14:47 00 014 SayHello/
+drwxr-xr-x 1 osipov 197609     0 Apr 20 01:02 01 020 InheritTheApp/
+drwxr-xr-x 1 osipov 197609     0 Apr  5 16:41 01 022 ThrowWinPatry/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 01 024 InheritAppAndWindow/
+- drwxr-xr-x 1 osipov 197609     0 Apr  5 16:41 01 025 InheritTheApp/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 01 029 GrowAndShrink/
+drwxr-xr-x 1 osipov 197609     0 Mar 29 19:35 01 031 TypeYourTitle/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 02 037 VaryTheBackground/
+drwxr-xr-x 1 osipov 197609     0 Mar 29 19:33 02 039 FlipThroughTheBrushes/
+drwxr-xr-x 1 osipov 197609     0 Apr 10 21:39 02 042 GradiateTheBrush/
+drwxr-xr-x 1 osipov 197609     0 Apr  5 17:03 02 046 AdjustTheGradient/
+drwxr-xr-x 1 osipov 197609     0 May 28 17:09 02 047 FollowTheRainbow/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 02 050 ClickTheGradientCenter/
+drwxr-xr-x 1 osipov 197609     0 Apr  5 16:41 02 052 RotateTheGradientOrigin/
+drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 03 054 DisplaySomeText/
+drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 03 058 RecordKeystrokes/
+drwxr-xr-x 1 osipov 197609     0 Apr 20 01:23 03 061 ShowMyFace/
+drwxr-xr-x 1 osipov 197609     0 Mar 29 19:33 03 066 FormatTheText/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 03 068 ToggleBoldAndItalic/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 21:32 03 070 SimpleEllipse/
+drwxr-xr-x 1 osipov 197609     0 Apr  5 16:41 03 071 RenderTheGraphic/
+drwxr-xr-x 1 osipov 197609     0 Apr 10 21:39 04 073 ClickTheButton/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 04 077 FormatTheButton/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 04 078 ImageTheButton/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 04 079 ImageTheButton.cs/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 21:32 04 082 ToggleTheButton/
+drwxr-xr-x 1 osipov 197609     0 Apr  5 16:41 04 085 BindTheButton/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 04 092 EditSomeText/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 05 097 StackTenButtons/
+drwxr-xr-x 1 osipov 197609     0 Apr 19 21:52 05 103 ScrollFiftyButtons.cs/
+drwxr-xr-x 1 osipov 197609     0 Apr 20 01:23 05 106 DesignAButton/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 21:32 05 108 TuneTheRadio/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 05 110 ExploreDirectories/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 06 115 DockAroundTheBlock/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 06 117 MeetTheDockers/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 21:32 06 124 EnterTheGrid/
+drwxr-xr-x 1 osipov 197609     0 Apr 20 01:23 06 127 SpanTheCells/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 06 130 SplitNine/
+drwxr-xr-x 1 osipov 197609     0 Apr 20 01:02 06 133 SplitTheClient/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 06 136 ScrollCustomColors/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 07 141 PaintTheButton.cs/
++ drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 08 150 SetFontSizeProperty/
+not working drwxr-xr-x 1 osipov 197609     0 May 28 15:43 08 161 SetSpaceProperty/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 09 169 ExamineRoutedEvents/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 09 180 DrawCircles/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 09 186 ShadowTheStylus/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 09 190 ExamineKeystrokes/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 10 200 RenderTheBetterEllipse/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 10 208 GetMedieval/
+drwxr-xr-x 1 osipov 197609     0 May 10 22:27 11 228 BuildButtonFactory/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 11 241 SelectColor/
+drwxr-xr-x 1 osipov 197609     0 May 17 21:21 12 246 DuplicateUniformGrid/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 13 268 ListColorNames/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 13 271 ListColorValues/
+- drwxr-xr-x 1 osipov 197609     0 Jun  9 19:10 13 277 ListNamedBrushes/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 13 279 ListColorShapes/
+drwxr-xr-x 1 osipov 197609     0 May 28 17:09 13 280 ListColoredLabels/
+drwxr-xr-x 1 osipov 197609     0 May 28 17:09 13 282 ListWithListBoxItems/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 13 292 SelectColorFromGrid/
+drwxr-xr-x 1 osipov 197609     0 May 10 22:27 14 299 PeruseTheMenu/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 14 314 ControlXCV/
+drwxr-xr-x 1 osipov 197609     0 May 17 23:02 14 317 CommandTheMenu/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 19 482 LoadXamlResource/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 19 485 LoadXamlFile/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 19 491 CompileXamlWindow/
++ drwxr-xr-x 1 osipov 197609     0 Jun 16 00:32 20 537 DumpContentPropertyAttributes/
+drwxr-xr-x 1 osipov 197609     0 May 28 17:09 21 563 MyResources/
+drwxr-xr-x 1 osipov 197609     0 May 24 23:54 23 627 BindLabelToScrollBar/
+- drwxr-xr-x 1 osipov 197609     0 Jun 15 19:51 23 652 ClockTicker2/
+drwxr-xr-x 1 osipov 197609     0 Jun  3 20:21 24 660 ButtonWithLocalStyle/
+drwxr-xr-x 1 osipov 197609     0 Jun  3 20:21 24 661 StyleWithMultipleButtons/
+drwxr-xr-x 1 osipov 197609     0 Jun  3 20:21 24 661-2StyleWithMultipleElements/
+drwxr-xr-x 1 osipov 197609     0 Jun  3 20:21 24 662-3 StylesWithSameKeys/
+drwxr-xr-x 1 osipov 197609     0 May 28 17:09 28 806 FourOverlappingCircles/
+not working drwxr-xr-x 1 osipov 197609     0 May 17 23:02 28 828 Text Geometry/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 30 867 EnlargeButtonWithTimer/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 30 869 EnlargeButtonWithAnimation/
+drwxr-xr-x 1 osipov 197609     0 May 28 15:43 30 895 RenderTheAnimation/
++ drwxr-xr-x 1 osipov 197609     0 Jun 16 00:32 31 911 CreateIndexedBitmap/
+-rw-r--r-- 1 osipov 197609  4713 Jun  3 20:21 Description.txt
+-rw-r--r-- 1 osipov 197609 32537 Jun 16 00:32 WPF2022.sln
+-rw-r--r-- 1 osipov 197609  5220 Jun  9 21:28 index.txt
+> -rw-r--r-- 1 osipov 197609     0 Jun 16 00:38 indexn.txt
+
