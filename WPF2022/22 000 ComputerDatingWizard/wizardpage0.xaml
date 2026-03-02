@@ -1,0 +1,34 @@
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      x:Class="Petzold.ComputerDatingWizard.WizardPage0">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />  <!-- Высота первой строки устанавливается автоматически. -->
+            <RowDefinition Height="*" />     <!-- Высота второй строки заполняет оставшееся пространство. -->
+            <RowDefinition Height="Auto" />  <!-- Высота третьей строки устанавливается автоматически. -->
+        </Grid.RowDefinitions>
+        <FlowDocumentScrollViewer Grid.Row="0" Margin="6" VerticalScrollBarVisibility="Hidden">
+            <FlowDocument FontSize="10pt">
+                <Paragraph>
+                    Welcome to the Computer Dating Wizard.  <!-- Приветственный текст -->
+                    This program probes the
+                    <Italic>Inner You</Italic> to
+                    match you with the mate of your dreams.  <!-- Текст описание функционала программы -->
+                </Paragraph>
+                <Paragraph>
+                    To begin, click the Begin button.  <!-- Предложение для начала использования программы -->
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+        <!-- Кнопка навигации в нижнем правом углу страницы. -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />     <!-- Ширина первой колонки занимает все доступное пространство. -->
+                <ColumnDefinition Width="Auto" />  <!-- Ширина второй колонки устанавливается автоматически. -->
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" Click="BeginButtonOnClick"
+                    MinWidth="72" Margin="6"
+                    Content="Begin &gt;" />   <!-- Кнопка "Begin" с обработчиком события "BeginButtonOnClick". -->
+        </Grid>
+    </Grid>
+</Page>
